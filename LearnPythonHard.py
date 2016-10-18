@@ -134,5 +134,7 @@ print "How much do you weigh?"
 # print "So you are %r old, %r tall, and %r heavy" % (age, height, weight)
 
 # 13. Argument Vector, see Test_13_Argv.py
+# $python Test_13_Argv.py one two three
 
 # 14. Argument Vector + raw_input(), see Test_14_Argv_raw.py
+# $ python Test_14_Argv_raw.py xiaoqiang
