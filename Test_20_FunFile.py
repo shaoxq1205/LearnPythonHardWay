@@ -23,3 +23,4 @@ current_line = 1
 print_a_line(current_line, current_file)
 print_a_line(current_line + 1, current_file)
 print_a_line(current_line + 5, current_file)  # still reading the third line
+
